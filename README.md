@@ -69,9 +69,9 @@ Results are
 
 ![tl](/doc/img/trainingloss.png)
 
-![](.\doc\img\trainingset.png)
+![ts](.\doc\img\trainingset.png)
 
-![](.\doc\img\testset.png)
+![tt](.\doc\img\testset.png)
 
 ## Reference
 
